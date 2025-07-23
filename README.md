@@ -1,6 +1,6 @@
 # Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing
 
-[**📄 Paper**](https://doi.org/10.1145/XXXXXX.XXXXXX) | [**🔗 Project Page**](https://github.com/gaogao2002/Free-Mask)  
+[**📄 Paper**](https://arxiv.org/abs/2411.01819) | [**🔗 Project Page**](https://github.com/gaogao2002/Free-Mask)  
 Authors: Bo Gao, Jianhui Wang, Xinyuan Song, Yangfan He, Fangxu Xing, Tianyu Shi
 
 ## 📌 Overview
