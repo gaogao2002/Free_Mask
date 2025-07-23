@@ -8,7 +8,7 @@ Authors: Bo Gao, Jianhui Wang, Xinyuan Song, Yangfan He, Fangxu Xing, Tianyu Shi
 **Free-Mask** is a novel framework for generating high-quality synthetic segmentation datasets via the integration of **segmentation-aware diffusion models** and **image editing techniques**. It enables **multi-instance generation**, **mask refinement**, and **iterative data improvement** without relying on manual annotations.
 
 <p align="center">
-  <img src="../picture/frame.pdf" width="100%" />
+  <img src="main/picture/frame.pdf" width="100%" />
 </p>
 
 ## ✨ Key Features
